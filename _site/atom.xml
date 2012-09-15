@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Jekyll Bootstrap</title>
+ <link href="http://username.github.com/atom.xml" rel="self"/>
+ <link href="http://username.github.com"/>
+ <updated>2012-09-16T01:26:42+03:00</updated>
+ <id>http://username.github.com</id>
+ <author>
+   <name>Name Lastname</name>
+   <email>blah@email.test</email>
+ </author>
+
+ 
+ <entry>
+   <title>new post</title>
+   <link href="http://username.github.com/2012/09/16/new-post"/>
+   <updated>2012-09-16T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/09/16/new-post</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>First post</title>
+   <link href="http://username.github.com/2012/09/16/first-post"/>
+   <updated>2012-09-16T00:00:00+03:00</updated>
+   <id>http://username.github.com/2012/09/16/first-post</id>
+   <content type="html">&lt;h1 id='this_is_first_post'&gt;This is first post.&lt;/h1&gt;
+
+&lt;p&gt;LLALALALA&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
